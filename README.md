@@ -4,3 +4,4 @@
 * [Mapreduce](/distributedsystem/Mapreduce/mapreduce.pdf)  
 * [gfs](/distributedsystem/raft/gfs.pdf) 
 * [tolerate-system](/distributedsystem/raft/vm-ft.pdf)  
+* [understandable-consencus-algorithm](/distributedsystem/raft/raft-extended.pdf)  
